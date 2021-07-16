@@ -1,2 +1,2 @@
 # docebo
-Node client for Docebo API
+Docebo NodeJS API client
